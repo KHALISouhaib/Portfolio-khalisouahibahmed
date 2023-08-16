@@ -219,5 +219,5 @@ function showProjectDetails() {
 
 showProjectDetails();
 
-// effets
+// effetsg
 
